@@ -1,2 +1,2 @@
 # Python-mini-project
-print("hello world")
+print("hello")
